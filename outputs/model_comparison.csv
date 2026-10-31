@@ -1,0 +1,6 @@
+Model,Accuracy,FAIL Recall,FAIL Precision,FAIL F1
+Baseline Model,74.52,57.14,14.0,23.0
+Random Forest,92.04,19.05,33.33,24.24
+Tuned Random Forest,91.08,9.52,18.18,12.5
+SMOTE Random Forest,76.43,42.86,12.68,19.57
+Threshold Optimized,87.0,42.86,24.0,31.0
